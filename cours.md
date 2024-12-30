@@ -72,14 +72,8 @@ public class Program {
 abstract factory design pattern : le but est de créer des objets regroupés en famille sans devoir connaitre les classes concrètes destinées à la création de ces objets.
 
 
-signature de methode : décrit ce qu'elle prend en entrée et ce qu'elle va afficher en sortie.
-
-rond en UML = interface
-
-contexte : 
-
-
-commande : 
-dotnet build = permet de compiler le projet / regénère les exécutable
-donet run = lance le projet
 lorsqu'on implémente une interface = la classe doit en hériter
+
+
+Pattern Builder: le but est de séparer la construction d'objets complexe
+Contexte : lorsqu'on achète un véhicule on est pris en charge par un commercial. Il y a beaucoup de document à remplir. Ils sont disponibles au format pdf ou html selon le choix du client.
