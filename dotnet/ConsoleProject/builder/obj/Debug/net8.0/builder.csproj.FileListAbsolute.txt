@@ -1,0 +1,15 @@
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/bin/Debug/net8.0/builder
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/bin/Debug/net8.0/builder.deps.json
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/bin/Debug/net8.0/builder.runtimeconfig.json
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/bin/Debug/net8.0/builder.dll
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/bin/Debug/net8.0/builder.pdb
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/obj/Debug/net8.0/builder.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/obj/Debug/net8.0/builder.AssemblyInfoInputs.cache
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/obj/Debug/net8.0/builder.AssemblyInfo.cs
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/obj/Debug/net8.0/builder.csproj.CoreCompileInputs.cache
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/obj/Debug/net8.0/builder.sourcelink.json
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/obj/Debug/net8.0/builder.dll
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/obj/Debug/net8.0/refint/builder.dll
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/obj/Debug/net8.0/builder.pdb
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/obj/Debug/net8.0/builder.genruntimeconfig.cache
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/builder/obj/Debug/net8.0/ref/builder.dll
