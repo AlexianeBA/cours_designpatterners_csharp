@@ -1,16 +1,24 @@
+using System;
+
+namespace Builder;
+
 public class Vendeur
 {
-    private ConstructeurLiasseVehicule constructeur;
+    protected ConstructeurLiasseVehicule _constructeur;
 
     public Vendeur(ConstructeurLiasseVehicule constructeur)
     {
-        this.constructeur = constructeur;
+        _constructeur = constructeur; // designe l'instance
+        // en cours d'utilisation
     }
 
-    public Liasse construit(string nomClient)
+    public Liasse Construit(string nomClient)
     {
-        constructeur.construitBonDeCommande(nomClient);
-        constructeur.construitDemandeImmatriculation(nomClient);
-        return constructeur.resultat();
+        _constructeur.ConstruitBonDeCommande(nomClient);
+        _constructeur.ConstruitDemandeImmatriculation(nomClient);
+
+        Liasse liasse = _constructeur.Resultat();
+
+        return liasse;
     }
 }

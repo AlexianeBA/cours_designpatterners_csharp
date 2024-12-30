@@ -1,21 +1,26 @@
+using System;
+
+namespace Builder;
+
 public class ConstructeurLiasseVehiculePdf : ConstructeurLiasseVehicule
 {
-    private Liasse liasse = new LiassePdf();
 
-    public void construitBonDeCommande(string nomClient)
-    {
-        string contenu = "PDF Bon de commande Client : " + nomClient;
-        liasse.ajouteDocument(new DocumentPdf(contenu));
-    }
+  public override void ConstruitBonDeCommande(string
+  nomClient)
+  {
+    string document;
+    document = "<PDF>Bon de commande Client : " +
+      nomClient + "</PDF>";
+    liasse.ajouteDocument(document);
+  }
 
-    public void construitDemandeImmatriculation(string nomDemandeur)
-    {
-        string contenu = "PDF Demande d'immatriculation Demandeur : " + nomDemandeur;
-        liasse.ajouteDocument(new DocumentPdf(contenu));
-    }
-
-    public Liasse resultat()
-    {
-        return liasse;
-    }
+  public override void ConstruitDemandeImmatriculation
+    (string nomDemandeur)
+  {
+    string document;
+    document =
+      "<PDF>Demande d'immatriculation Demandeur : " +
+      nomDemandeur + "</PDF>";
+    liasse.ajouteDocument(document);
+  }
 }
