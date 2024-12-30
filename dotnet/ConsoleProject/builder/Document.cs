@@ -10,22 +10,4 @@ public abstract class Document
     public abstract void affiche();
 }
 
-public class DocumentHtml : Document
-{
-    public DocumentHtml(string contenu) : base(contenu) { }
 
-    public override void affiche()
-    {
-        Console.WriteLine("Document HTML : " + contenu);
-    }
-}
-
-public class DocumentPdf : Document
-{
-    public DocumentPdf(string contenu) : base(contenu) { }
-
-    public override void affiche()
-    {
-        Console.WriteLine("Document PDF : " + contenu);
-    }
-}
