@@ -1,0 +1,15 @@
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/bin/Debug/net8.0/adapter
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/bin/Debug/net8.0/adapter.deps.json
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/bin/Debug/net8.0/adapter.runtimeconfig.json
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/bin/Debug/net8.0/adapter.dll
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/bin/Debug/net8.0/adapter.pdb
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/obj/Debug/net8.0/adapter.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/obj/Debug/net8.0/adapter.AssemblyInfoInputs.cache
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/obj/Debug/net8.0/adapter.AssemblyInfo.cs
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/obj/Debug/net8.0/adapter.csproj.CoreCompileInputs.cache
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/obj/Debug/net8.0/adapter.sourcelink.json
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/obj/Debug/net8.0/adapter.dll
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/obj/Debug/net8.0/refint/adapter.dll
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/obj/Debug/net8.0/adapter.pdb
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/obj/Debug/net8.0/adapter.genruntimeconfig.cache
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/adapter/obj/Debug/net8.0/ref/adapter.dll
