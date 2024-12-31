@@ -1,0 +1,2 @@
+Le pattern Prototype permet ici de dupliquer les documents d'un client afin de les utiliser pour différentes démarches.
+Un même document peut servir à créer un bon de commande, une demande d'immatriculation et un certificat de cession.

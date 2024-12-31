@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/prototype/prototype.csproj": {}
+    "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/Prototype/prototype.csproj": {}
   },
   "projects": {
-    "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/prototype/prototype.csproj": {
+    "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/Prototype/prototype.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/prototype/prototype.csproj",
+        "projectUniqueName": "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/Prototype/prototype.csproj",
         "projectName": "prototype",
-        "projectPath": "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/prototype/prototype.csproj",
+        "projectPath": "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/Prototype/prototype.csproj",
         "packagesPath": "/Users/alexianebarbe/.nuget/packages/",
-        "outputPath": "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/prototype/obj/",
+        "outputPath": "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/Prototype/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/alexianebarbe/.nuget/NuGet/NuGet.Config"
