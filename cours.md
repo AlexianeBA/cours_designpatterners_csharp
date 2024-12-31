@@ -1,9 +1,10 @@
 # cours_designpatterners_csharp
 
-
+## Introduction
+Les design patterns sont des solutions typiques à des problèmes courant dans la concéption de logiciels orienté objet.
 Design patterns écrit par 4 dev en 1995 
 
-Chap 1:
+## Chapitre 1: Introduction aux Design Patterns
 - schéma contistué d'objet qui forme une solution a un problème connu et fréquent 
 - les obj dans ce schéma sont décris par des censemble de classes et de relations
 - les design patterns se retrouve toujours dans le cadre de la POO 
@@ -12,7 +13,7 @@ Chap 1:
 - ils sont représentés pas des diagrammes UML
 - pour chaque pattern : Nom, description, exemple sous forme de diagramme (UML), la structure générique du patterns, le cas d'utilisation, un exemple de code, https://refactoring.guru/
 
-Chap 2:
+## Chapitre 2: 
 - étude de cas : afficher un catalogue de véhicuke destiné à la vente
 Cahier des charges :
 - véhicules destinés à la vente
@@ -24,17 +25,19 @@ Cahier des charges :
 - gestion client
 - 
 
-Chap 3:
+## Chapitre 3:
 - patterns de construction : d'abstaire les mécanisme de création d'obj qui permettent d'optimiser 
 - une interface permet d'établir des relations entre obj
 - interface donne un comportement commun qui va s'appliquer à toutes les classes 
 - singleton : construire des classes avec une seule instance
 - en c# une instruction de création de classe : 
+```csharp
 var object = new Myclass(); // création d'une instance de la classe MyClass
+```
 
 dans certains cas il est nécessaire de parametrer la construction d'obj:
 
-
+```csharp
 public class Document
 {
     public string Title { get; set; }
@@ -68,7 +71,7 @@ public class Program {
         }
     }
 }
-
+```
 abstract factory design pattern : le but est de créer des objets regroupés en famille sans devoir connaitre les classes concrètes destinées à la création de ces objets.
 
 
@@ -85,3 +88,59 @@ Une méthode de classe unique qui retourne cette instance
 Prototype pattern:
 Création de nouveaux objets par duplication d'objets existants
 On les appelle Prototype et ils ont une capacité de clonage.
+
+Le design pattern Prototype permet de créer des copis d'objets existants sans rendre le code dépendant de leur classe concrète. Au lieu de créer un objet à partir de zéro on clône un objet existant (le protorype) et on le modifie si besoin. C'est comme faire une photocopie d'un docuement: on copie l'original et on peut modifier la copie. L'avantage principal est la création d'objets complexes simplifiée.
+
+Cas d'usage: 
+- objets avec de nombreuses configuration (éditeur graphique: formes géométriques)
+- En jeux vidéo, crétion d'énemis et leur variations en grande quantité
+- création d'une configuartion par défaut dans un jeu/logiciel (permet de restaurer le défaut rapidement et de configurer à nouveau)
+- Pour éviter la création d'objets systemes couteux: connexions réseaux, ressources partagées.
+
+## Chapitre 9 : Patterns de structuration
+permet de faciliter l'indépendance d'un objet vis à vis de son implémentation. Ils encapsulent la composition des objets. Dans le cas d'un ensemble d'objet, il s'agit aussi de rendre cette interface indépendante de la hiérarchie des classes et de la composition des objets.
+Les patterns de structuration encapsulent la composition des objets (augmentation du niveau d'abstraction)
+Précedemment les patterns de création encapsulaient la création des objets.
+
+Pattern Adapter : Convertir l'interface d'une classe existante en une interface attendue par ses clients (afin qu'ils puissent travailler ensemble)
+Autrement dit c'est fournir une nouvelle interface pour répondre aux besoins de clients.
+
+
+Bridge:
+Séparer l'aspect d'implémentation d'un objet de son aspect représentation de l'interface.
+Le patern Bridge sépare une grosse classe en deux partie qui peuvent être développer indépendamment.
+Exemple avec une télécommande TV:
+- Abstraction: La télécommande (les boutons volumes, chaines, ...)
+- Implémentation : les marques de TV (Sony, Samsung,...)
+
+```java
+//Abstraction
+class Telecommande {
+    protected TV tv;
+    public void MonterLeSon(){
+        tv.MonterLeSon();
+    }
+}
+
+//implémentation
+interface TV {
+    void MonterLeSon();
+
+}
+class TVSony implements TV {
+    public void MonterLeSon(){
+        System.out.printIn("Sony: Monter le son");
+    }
+}
+
+class TVSamsung implements TV {
+    public void MonterLeSon(){
+        System.out.printIn("Samsung: Monter le son");
+    }
+}
+```
+Avantages:
+- On peut changer la marque de la TV sans changer la télécommande
+- On peut modifier la télécommande sans toucher au code des TVs
+- On peut ajouter des nouvelles marques de TV
+C'est comme si on avait une prise universelle qui fonctionne avec différentes prises éléectriques, l'interface est la même mais l'implémentation est différente selon le pays.

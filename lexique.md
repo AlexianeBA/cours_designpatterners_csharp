@@ -13,3 +13,9 @@ créer un nouveau projet : dotnet new console -o
 List<string> = type générique
 
 composition = mécanisme qui permet à une classe de contenir une instance de cette même classe ou d'une autre 
+
+shallow copy: crééer une copie superficielle de l'objet
+deep copy: 
+
+instance : membre et méthode public d'un objet 
+Décorateur : ajoute des fonctionnalités sans modifier l'implémentation d'une classe 
