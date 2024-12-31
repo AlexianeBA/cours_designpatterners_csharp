@@ -77,3 +77,11 @@ lorsqu'on implémente une interface = la classe doit en hériter
 
 Pattern Builder: le but est de séparer la construction d'objets complexe
 Contexte : lorsqu'on achète un véhicule on est pris en charge par un commercial. Il y a beaucoup de document à remplir. Ils sont disponibles au format pdf ou html selon le choix du client.
+
+
+Pattern Singleton: permet d'assurer qu'une classe ne possède qu'une seule instance au cours de l'execution du programme 
+Une méthode de classe unique qui retourne cette instance
+
+Prototype pattern:
+Création de nouveaux objets par duplication d'objets existants
+On les appelle Prototype et ils ont une capacité de clonage.

@@ -9,3 +9,7 @@ dotnet build = permet de compiler le projet / regénère les exécutable
 donet run = lance le projet
 
 créer un nouveau projet : dotnet new console -o
+
+List<string> = type générique
+
+composition = mécanisme qui permet à une classe de contenir une instance de cette même classe ou d'une autre 
