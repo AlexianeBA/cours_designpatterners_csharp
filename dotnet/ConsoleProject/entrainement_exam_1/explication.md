@@ -1,0 +1,3 @@
+Comment votre solution permettrait-elle d'ajouter facilement un nouveau type de document (par exemple une attestation fiscale) tout en respectant le principe Open/Closed ?
+
+Grace au pattern Abstract factory on peut ajouter différents types de contrats de manière efficace et flexible. On peut également ajouter de nouvelles categorie de cliens. Tout cela sans modifier le code existant repectant ainsi le principe Open/Closed.
