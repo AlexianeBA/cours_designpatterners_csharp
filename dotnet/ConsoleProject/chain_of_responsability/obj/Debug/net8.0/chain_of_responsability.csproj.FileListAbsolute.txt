@@ -1,0 +1,5 @@
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/chain_of_responsability/obj/Debug/net8.0/chain_of_responsability.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/chain_of_responsability/obj/Debug/net8.0/chain_of_responsability.AssemblyInfoInputs.cache
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/chain_of_responsability/obj/Debug/net8.0/chain_of_responsability.AssemblyInfo.cs
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/chain_of_responsability/obj/Debug/net8.0/chain_of_responsability.csproj.CoreCompileInputs.cache
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/chain_of_responsability/obj/Debug/net8.0/chain_of_responsability.sourcelink.json
