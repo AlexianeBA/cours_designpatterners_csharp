@@ -144,3 +144,21 @@ Avantages:
 - On peut modifier la télécommande sans toucher au code des TVs
 - On peut ajouter des nouvelles marques de TV
 C'est comme si on avait une prise universelle qui fonctionne avec différentes prises éléectriques, l'interface est la même mais l'implémentation est différente selon le pays.
+
+
+Décorateur :
+Le but du pattern est d'ajouter dynamiquement des fonctionnalités supplémentaires à un objet.
+Aucune modification de l'interface de l'objet
+Transparent vis-a-vis des clients
+Une alternative à la création d'une sous-classe pour enrichir un objet. 
+
+## Chapitre 17: Pattern de comportement
+L'objectif : fournir des solutions pour distibuer les traitements et le algorithmes entre les objets.
+
+Chain of Responsability : 
+Construit une chaine d'objet telle que si un objet de la chaine ne peut pas répondre à la requête il puisse la transmettre à son successeur et ce jusqu'à ce que l'un des objet réponde.
+Une chaîne d'objets doit gérer une requête selon un ordre défini dynamiquement.
+La façon dont une chaine d'objets gère une requête ne doit pas être connue par ses clients.
+
+Command Pattern:
+Command permet de transformer une requête en un objet, ce qui facilite les opérations comme les annulations ou le "retour en arrière", ou encore les mises en file d'attente des demandes et leur suivi.
