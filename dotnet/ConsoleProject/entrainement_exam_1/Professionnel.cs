@@ -1,12 +1,13 @@
-public class Professionnel: DocOfficiels
-{
-    public Rib CreateRib()
-    {
-        return new DetailRib();
-    }
 
-    public Attestation CreateAttestation()
+    public class Professionnel : DocOfficiels
     {
-        return new StandarAttestation();
+        public Rib CreateRib()
+        {
+            return new DetailRib();
+        }
+
+        public Attestation CreateAttestation()
+        {
+            return new LegalAttestation();
+        }
     }
-}

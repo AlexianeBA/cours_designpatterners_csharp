@@ -1,0 +1,15 @@
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/obj/Debug/net8.0/entrainement_exame_2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/obj/Debug/net8.0/entrainement_exame_2.AssemblyInfoInputs.cache
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/obj/Debug/net8.0/entrainement_exame_2.AssemblyInfo.cs
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/obj/Debug/net8.0/entrainement_exame_2.csproj.CoreCompileInputs.cache
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/obj/Debug/net8.0/entrainement_exame_2.sourcelink.json
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/bin/Debug/net8.0/entrainement_exame_2
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/bin/Debug/net8.0/entrainement_exame_2.deps.json
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/bin/Debug/net8.0/entrainement_exame_2.runtimeconfig.json
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/bin/Debug/net8.0/entrainement_exame_2.dll
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/bin/Debug/net8.0/entrainement_exame_2.pdb
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/obj/Debug/net8.0/entrainement_exame_2.dll
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/obj/Debug/net8.0/refint/entrainement_exame_2.dll
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/obj/Debug/net8.0/entrainement_exame_2.pdb
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/obj/Debug/net8.0/entrainement_exame_2.genruntimeconfig.cache
+/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/obj/Debug/net8.0/ref/entrainement_exame_2.dll

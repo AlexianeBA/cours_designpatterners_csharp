@@ -1,4 +1,5 @@
-public class LegalAttestation : Attestation
+
+    public class LegalAttestation : Attestation
     {
         public override void Print()
         {

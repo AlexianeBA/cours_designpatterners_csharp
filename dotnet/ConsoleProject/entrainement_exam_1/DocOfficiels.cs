@@ -1,5 +1,6 @@
-public interface DocsOfficiels
-{
-  Rib CreateRib();
-  Attestation CreateAttestation();
-}
+
+    public interface DocOfficiels
+    {
+        Rib CreateRib();
+        Attestation CreateAttestation();
+    }

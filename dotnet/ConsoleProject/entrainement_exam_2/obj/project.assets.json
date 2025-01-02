@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_1/entrainement_exam.csproj",
-      "projectName": "entrainement_exam",
-      "projectPath": "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_1/entrainement_exam.csproj",
+      "projectUniqueName": "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/entrainement_exame_2.csproj",
+      "projectName": "entrainement_exame_2",
+      "projectPath": "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/entrainement_exame_2.csproj",
       "packagesPath": "/Users/alexianebarbe/.nuget/packages/",
-      "outputPath": "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_1/obj/",
+      "outputPath": "/Users/alexianebarbe/Desktop/cours_designpatterners_csharp/dotnet/ConsoleProject/entrainement_exam_2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/alexianebarbe/.nuget/NuGet/NuGet.Config"
